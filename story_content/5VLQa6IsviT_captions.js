@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:05.042%0D%0AAnd%20Income%20must%20be%20recorded%20in%20the%20same%20year%20as%20the%20expenses%20that%20generated%20the%20income.%0D%0A%0D%0A"}')

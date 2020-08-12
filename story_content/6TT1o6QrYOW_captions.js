@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.676%0D%0AThe%20system%20of%20double%20entry%20accounting%20ensures%20that%20all%20entries%20are%20made%20properly.%0D%0A%0D%0A"}')

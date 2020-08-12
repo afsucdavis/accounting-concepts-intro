@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:07.184%0D%0AEach%20accounting%20entry%20will%20adjust%20one%20account%20and%20have%20an%20equal%20but%20opposite%20effect%20on%20another%20account.%0D%0A%0D%0A"}')

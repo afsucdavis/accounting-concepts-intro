@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:06.191%0D%0AFund%20accounting%20is%20used%20when%20there%20are%20restrictions%20on%20how%20the%20organization%E2%80%99s%20funding%20should%20be%20spent.%0D%0A%0D%0A"}')
